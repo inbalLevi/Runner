@@ -34,3 +34,8 @@ CD Pipeline - Downloading the LTS artifact from artifactory and running the new 
  ![image](https://user-images.githubusercontent.com/71599740/139236417-9a0682e6-a2d9-4b12-81cb-0c2156db9918.png)
 ![image](https://user-images.githubusercontent.com/71599740/139236540-e65c591b-72e7-4896-a995-c73a101836ac.png)
 
+14.finally this is the full ci-cd:
+![cicd](https://user-images.githubusercontent.com/71599740/139572510-6c84c936-6ef3-4e4e-9faa-ae22d7414aec.PNG)
+
+If you would like to make a change to the app push the new commit to the master branch and the pipelines will do the rest :)
+
